@@ -14,7 +14,7 @@ Before open and run this code, you need to do below preparation:
 > See https://github.com/AtlasFramework/IoT-DDL
 
 ## 3. Keep your things and devices running IDE in the same LAN (or VSS)
-It means your RPI should Share the same prefix, ex: 10.254.0.x
+It means your RPI should share the same prefix, ex: 10.254.0.x
 
 
 ## 4. Set multicast ip on your RPi
