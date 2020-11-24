@@ -23,3 +23,5 @@ It means your RPI should share the same prefix, ex: 10.254.0.x
 
 
 To use the IDE, run the code from main.py
+Note: Please make sure your Atlas will not send unformatted tweet. Our IDE cannot resolve unformatted tweet!!!
+You can use our Report as your user manual.
