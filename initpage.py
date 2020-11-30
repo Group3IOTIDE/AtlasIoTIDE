@@ -262,6 +262,7 @@ class ThreadedClient(threading.Thread):
             for j in thingIdx:
                 if thingIdx[j] == i:
                     thing = j
+                    break
             for service_name in serviceInfo[i]:
                 f.write(service_name + ',' + thing + '\n')
         f.close()
